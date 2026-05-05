@@ -75,3 +75,59 @@ footer ul {
 footer li {
   margin: 5px 0;
 }
+/* RESPONSIVE DESIGN */
+
+/* Tablets */
+@media (max-width: 768px) {
+
+  h1 {
+    font-size: 22px;
+    padding: 15px;
+  }
+
+  .hero {
+    padding: 40px 15px;
+  }
+
+  .feature-box {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .card {
+    width: 80%;
+  }
+
+  .about, .contact {
+    margin: 10px;
+    padding: 20px;
+  }
+}
+
+/* Phones */
+@media (max-width: 480px) {
+
+  h1 {
+    font-size: 18px;
+  }
+
+  .hero h2 {
+    font-size: 20px;
+  }
+
+  .hero p {
+    font-size: 14px;
+  }
+
+  .hero button {
+    width: 100%;
+  }
+
+  .card {
+    width: 90%;
+  }
+
+  footer {
+    font-size: 14px;
+  }
+}
