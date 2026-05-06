@@ -13,12 +13,12 @@ Team collaboration workflow
 Basic website development using HTML and CSS
 
 # 👥 Members and Assigned Tasks
-- Kiamco, Reedvejee
-- Sumile, Jemrel
-- Dagatan, Mark Lowes
-- Menchavez, Ruben
-- Ceniza, Riann
-- Gonzales, Shienna
+- Kiamco, Reedvejee (Pinaka Choy Lang)
+- Sumile, Jemrel (Hero Section)
+- Dagatan, Mark Lowes (Feature Section)
+- Menchavez, Ruben (About Section)
+- Ceniza, Riann (Contact Section)
+- Gonzales, Shienna (Footer Section)
 
 # 🛠 Technologies Used
 - HTML
