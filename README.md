@@ -13,20 +13,13 @@ Team collaboration workflow
 Basic website development using HTML and CSS
 
 # 👥 Members and Assigned Tasks
-Member
-Task
-Member 1
-Home Page
-Member 2
-About Us Page
-Member 3
-Services Page
-Member 4
-Contact Page
-Member 5
-Navigation Bar & Footer
-Member 6
-CSS Design / Styling
+- Kiamco, Reedvejee
+- Sumile, Jemrel
+- Dagatan, Mark Lowes
+- Menchavez, Ruben
+- Ceniza, Riann
+- Gonzales, Shienna
+
 # 🛠 Technologies Used
 - HTML
 - CSS
