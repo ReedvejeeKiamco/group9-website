@@ -15,9 +15,9 @@ Basic website development using HTML and CSS
 # 👥 Members and Assigned Tasks
 - Kiamco, Reedvejee (Pinaka Choy Lang)
 - Sumile, Jemrel (Hero Section)
-- Dagatan, Mark Lowes (Feature Section)
+- Dagatan, Mark Lowes (Footer Section)
 - Menchavez, Ruben (Contact Section)
-- Ceniza, Riann (Contact Section)
+- Ceniza, Riann (About Section)
 - Gonzales, Shienna (Footer Section)
 
 # 🛠 Technologies Used
